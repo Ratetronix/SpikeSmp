@@ -1,0 +1,9 @@
+{
+	"ip":"SpikeSmp420.aternos.me",
+	"port": 52218,
+	"name": "AfkBot",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (ratan@420(remember_no_spaces)) (ratan@420(remember_no_spaces))",
+	"login-cmd":"/login (ratan@420)"
+}
